@@ -11,7 +11,7 @@ public class Wilder {
         return this.firstname;
     }
 
-    public boolean getAware() {
+    public boolean isAware() {
         return this.aware;
     }
 
